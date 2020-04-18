@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+body{
+  background: #f08080;
+  font-size:15px;
+  text-align:center;
+}
+
+div {text-align:center;}
+h1 {text-align:center;}
+h2{text-align:center;}
+h3{text-align:center;}
